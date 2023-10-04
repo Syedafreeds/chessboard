@@ -1,0 +1,23 @@
+td{
+    height: 50px;
+    width: 50px;
+}
+#white{
+    background-color:whitesmoke
+}
+#black{
+    background-color:rgb(92, 86, 86);
+}
+h1{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    border: 2px double black;
+}
+
+td:hover{
+    background-color:yellowgreen;
+    color:turquoise;
+}
